@@ -6,6 +6,7 @@
 ![image](https://github.com/user-attachments/assets/a6bb39ab-5edd-463d-9511-b8f746d65da2)
 ![image](https://github.com/user-attachments/assets/9a7d48aa-6adb-4024-9022-c2aef3d89f3f)
 
+
 2. 가상 환경 만들기
 ![image](https://github.com/user-attachments/assets/c6d86d34-9a7f-406d-bf73-25a9f1844129)
 ![image](https://github.com/user-attachments/assets/7bcb652b-7aeb-4941-9ee4-96652bfa0410)
