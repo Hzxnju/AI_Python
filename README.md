@@ -8,7 +8,7 @@
 
 
 2. 가상 환경 만들기
-![image](https://github.com/user-attachments/assets/c6d86d34-9a7f-406d-bf73-25a9f1844129)
+
 ![image](https://github.com/user-attachments/assets/7bcb652b-7aeb-4941-9ee4-96652bfa0410)
 ![image](https://github.com/user-attachments/assets/6b966564-d8fd-4eea-a5e0-77f3dbad1d55)
 
